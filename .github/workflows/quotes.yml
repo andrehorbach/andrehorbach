@@ -22,8 +22,8 @@ jobs:
         
       - name: Update the Quote
         run: |
-          git config --global user.name 'GitHubUserName'
-          git config --global user.email 'EmailID@gmail.com'
+          git config --global user.name 'andrehorbach'
+          git config --global user.email 'andrecomexdev@gmail.com'
           git add .
           git commit -am "Daily quotes"
           git push origin main --force
