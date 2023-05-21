@@ -8,7 +8,14 @@ limit = 1
 api_url = 'https://api.api-ninjas.com/v1/facts?limit={}'.format(limit)
 response = requests.get(api_url, headers={'X-Api-Key': 'I76dbvtaZtxpvp1+nUnDkA==gKbH7pWRiKqyWsxG'})
 if response.status_code == requests.codes.ok:
-    mainQuote = response.text
+    quote=response.text
+    #Load the response into a json object
+    quotes = json.loads(quote)
+    q=quotes[0]['fact']
+    #In case of receiving multiple quotes,
+    # we will pick the first one
+    mainQuote=q.split('.')[0]
+
 else:
     print("Error:", response.status_code, response.text)
 
