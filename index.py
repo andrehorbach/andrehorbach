@@ -4,16 +4,13 @@ import requests
 import os
 
 # Category List for Quotes
-api_url = 'https://api.api-ninjas.com/v1/facts?limit=1'
-# Enter your API Key Here
-response = requests.get(api_url, headers=
-						{'X-Api-Key': 'XXXXXXXXXXXXXXXXXX'})
-
+limit = 1
+api_url = 'https://api.api-ninjas.com/v1/facts?limit={}'.format(limit)
+response = requests.get(api_url, headers={'X-Api-Key': 'I76dbvtaZtxpvp1+nUnDkA==gKbH7pWRiKqyWsxG'})
 if response.status_code == requests.codes.ok:
-	quote = response.text
-	mainQuote = quote
+    mainQuote = response.text
 else:
-	print("Error:", response.status_code, response.text)
+    print("Error:", response.status_code, response.text)
 
 
 # Reading the readme file
