@@ -3,12 +3,12 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=About+Me:)](https://git.io/typing-svg)
 
-I am André Horbach. I am a Programmer and a Designer.
-I am also a Guitar Player 🎸 and a Biologist 🌱!
+I'm André Horbach, a Programmer and Designer. </br>
+I'm also a Guitar Player 🎸 and a Biologist 🌱!
 
 Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're in the mood for some music, my rock band: [Ficta](https://www.instagram.com/ficta.oficial/)!
 
-[![Portifolio](https://img.shields.io/badge/website-333333?style=for-the-badge&logo=About.me&logoColor=white)](http://www.andrehorbach.com.br) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551992675274)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre.horbach/) [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red)](http://www.andrehorbach.com.br) 
+[![Portifolio](https://img.shields.io/badge/website-333333?style=for-the-badge&logo=About.me&logoColor=white)](http://www.andrehorbach.com.br) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551992675274)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre.horbach/) [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:horbach.dev@gmail.com) 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=My+Tech+Stacks%3A)](https://git.io/typing-svg)
 
