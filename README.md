@@ -26,7 +26,7 @@ Contact<br/>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Rocker+Quote:)](https://git.io/typing-svg)
  
-<h4 quote>Some Random Data!</h4 quote>
+<h4 quote align='center'>I'd rather have a lot of talent and a little experience than a lot of experience and a little talent.</h4 quote>
                              
 <div>
   <a href="https://github.com/andrehorbach">
