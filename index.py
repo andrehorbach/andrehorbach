@@ -31,13 +31,13 @@ with open("README.md", mode="r", encoding="utf8") as f:
     readmeText = f.read()
  
 # Finding the tag where the quote is to be replaced
-openingTag = "<h3 quote"
-closingTag = "</h3 quote"
+openingTag = "<h4 quote"
+closingTag = "</h4 quote"
  
 startIndex = readmeText.index(openingTag)
 endIndex = readmeText.index(closingTag)
  
-quoteMarkdown = "<h3 quote align='center'>" + mainQuote + "." + "</h3 quote>"
+quoteMarkdown = "<h4 quote align='center'>" + mainQuote + "." + "</h4 quote>"
  
 content = readmeText[startIndex +
                      len(openingTag): endIndex]
