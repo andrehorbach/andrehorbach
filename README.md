@@ -39,5 +39,5 @@ Contact<br/>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>Lightning strikes the Empire States Building about seven times a year.</h4 quote>
+<h4 quote align='center'>In America, one out of every two marriages ends up in divorce.</h4 quote>
 </i>
