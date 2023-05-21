@@ -23,11 +23,7 @@ Contact<br/>
 ### Design:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" width="30"/>  
 
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Rocker+Quote:)](https://git.io/typing-svg)
- 
-<h4 quote align='center'>I'd rather have a lot of talent and a little experience than a lot of experience and a little talent.</h4 quote>
-                             
+                        
 <div>
   <a href="https://github.com/andrehorbach">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehorbach&layout=compact&langs_count=16&theme=dracula"/>
@@ -39,3 +35,9 @@ Contact<br/>
   ![Snake animation](https://github.com/andrehorbach/andrehorbach/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
+<i>
+<h4 quote align='center'>I'd rather have a lot of talent and a little experience than a lot of experience and a little talent. </h4 quote>
+</i>
