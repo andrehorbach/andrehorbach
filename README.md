@@ -8,8 +8,9 @@ I am also a Guitar Player 🎸 and a Biologist 🌱!
 
 Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're in the mood for some music, my rock band: [Ficta](https://www.instagram.com/ficta.oficial/)!
 
-[![Portifolio](https://img.shields.io/badge/website-333333?style=for-the-badge&logo=About.me&logoColor=white)](http://www.andrehorbach.com.br) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551992675274)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre.horbach/)
+Contact<br/>
 
+[![Portifolio](https://img.shields.io/badge/website-333333?style=for-the-badge&logo=About.me&logoColor=white)](http://www.andrehorbach.com.br) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551992675274)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre.horbach/) [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red)](http://www.andrehorbach.com.br) 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=My+Tech+Stacks%3A)](https://git.io/typing-svg)
 
@@ -25,4 +26,16 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Rocker+Quote:)](https://git.io/typing-svg)
  
-<h4 quote style="color: "red">Some Random Data!</h4 quote>
+<h4 quote>Some Random Data!</h4 quote>
+                             
+<div>
+  <a href="https://github.com/andrehorbach">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehorbach&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrehorbach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+
+</br>
+ 
+  ![Snake animation](https://github.com/andrehorbach/andrehorbach/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
