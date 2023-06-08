@@ -42,6 +42,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>More people are killed by donkeys annually than are killed in plane crashes.</h4 quote>
+<h4 quote align='center'>Devon, England has about 33,000 miles of hedgerows, more hedgerows than any other country.</h4 quote>
 </i>
 
