@@ -42,6 +42,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>In 1916, Charlie Chaplin was making $10,000 a week, making him the highest paid actor of his time.</h4 quote>
+<h4 quote align='center'>In 1923, the first neon sign was introduced in the U.</h4 quote>
 </i>
 
