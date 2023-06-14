@@ -42,6 +42,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>The largest employer in Central Florida is Walt Disney World.</h4 quote>
+<h4 quote align='center'>Sugar Bear (the mascot for Golden Crisps cereal) was born in 1963.</h4 quote>
 </i>
 
