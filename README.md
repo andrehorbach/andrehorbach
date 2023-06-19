@@ -42,6 +42,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>Approximately 60% of the water used by households during the summer is used for watering flowers, and lawns.</h4 quote>
+<h4 quote align='center'>The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary.</h4 quote>
 </i>
 
