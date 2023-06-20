@@ -42,6 +42,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>McDonald restaurants serve food and drink to an amazing 43 million customers on a daily basis.</h4 quote>
+<h4 quote align='center'>Warner Brothers Corset Company created the bra cup sizing system, which is now used universally used by manufacturers.</h4 quote>
 </i>
 
