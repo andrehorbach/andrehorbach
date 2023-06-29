@@ -41,6 +41,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>In 1281, the Mongol army of Kublai Khan tried to invade Japan but were ravaged by a hurricane that destroyed their fleet.</h4 quote>
+<h4 quote align='center'>In a day, an elephant can drink 80 gallons of water.</h4 quote>
 </i>
 
