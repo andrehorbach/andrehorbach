@@ -41,6 +41,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>Fine-grained volcanic ash can be found as an ingredient in some toothpaste.</h4 quote>
+<h4 quote align='center'>On average, the American household consumes six pounds of peanut butter annually.</h4 quote>
 </i>
 
