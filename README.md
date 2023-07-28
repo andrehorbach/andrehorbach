@@ -41,6 +41,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>Finland is also known as "the land of of the thousand lakes," because of the over 188,000 lakes found in this country.</h4 quote>
+<h4 quote align='center'>The world population of chickens is about equal to the number of people.</h4 quote>
 </i>
 
