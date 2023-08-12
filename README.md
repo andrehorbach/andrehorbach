@@ -41,6 +41,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>During the high feeding season, it has been estimated that an adult blue whale can eat up to 40 million krill in one day.</h4 quote>
+<h4 quote align='center'>The most common seasonings found in American homes are chili powder, cinnamon, and seasoned salts.</h4 quote>
 </i>
 
