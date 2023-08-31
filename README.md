@@ -41,6 +41,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>More than half the time spent in United States courts is cases that involve automobiles.</h4 quote>
+<h4 quote align='center'>The reason why locusts swarm are because when they are in groups, a "hot-spot" behind their hind legs is stimulated, which in turn causes their destructive nature.</h4 quote>
 </i>
 
