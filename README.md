@@ -41,6 +41,6 @@ Please check out [My Portifolio](http://www.andrehorbach.com.br/) and, if you're
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>97% of all paper money in the US contains traces of cocaine.</h4 quote>
+<h4 quote align='center'>There are 10 million bacteria at the place where you rest your hands at a desk.</h4 quote>
 </i>
 
