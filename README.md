@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>The revenue that is generated from gambling is more than the revenue that comes from movies, cruise ships, recorded music, theme parks, and spectator sports combined.</h4 quote>
+<h4 quote align='center'>Tug of war was an Olympic event from 1900-1920.</h4 quote>
 </i>
 
