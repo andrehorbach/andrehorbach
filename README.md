@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>In 1903 Mary Anderson invented the windshield wipers.</h4 quote>
+<h4 quote align='center'>The American Automobile association was formed in 1905 for the sole purpose of warning motorists of police speed traps.</h4 quote>
 </i>
 
