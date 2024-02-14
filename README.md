@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>Consuming chocolate was once considered a sin during the 16th and 17th century.</h4 quote>
+<h4 quote align='center'>Reports from owners of cats and dogs indicate that 21% of dogs and 7% of cats snore.</h4 quote>
 </i>
 
