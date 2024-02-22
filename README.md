@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>Babies who wear disposable diapers are five times more likely to develop diaper rash than those that wear cotton diapers.</h4 quote>
+<h4 quote align='center'>Every year, surgical tools are left in approximately 1,500 patients in the USA.</h4 quote>
 </i>
 
