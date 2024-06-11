@@ -5,7 +5,7 @@ import os
 
 # Category List for Quotes
 # limit = 1
-api_url = 'https://api.api-ninjas.com/v1/facts
+api_url = 'https://api.api-ninjas.com/v1/facts'
 response = requests.get(api_url, headers={'X-Api-Key': 'I76dbvtaZtxpvp1+nUnDkA==gKbH7pWRiKqyWsxG'})
 if response.status_code == requests.codes.ok:
     quote=response.text
