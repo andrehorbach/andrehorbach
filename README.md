@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>The fear of Halloween is called Samhainophobia.</h4 quote>
+<h4 quote align='center'>A person would have to drink more than 12 cups of hot cocoa to equal the amount of caffeine found in one cup of coffee.</h4 quote>
 </i>
 
