@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>Lake Baikal is the oldest freshwater lake on Earth, having formed between 20 and 25 million years ago.</h4 quote>
+<h4 quote align='center'>Pretzel that have no salt on them are called "baldies.</h4 quote>
 </i>
 
