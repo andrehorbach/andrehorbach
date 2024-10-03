@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>Wendel Clark holds the record for the longest span between NHL All-Star appearances, with 13 years (1986-1999).</h4 quote>
+<h4 quote align='center'>Many insects can carry 50 times their own body weight.</h4 quote>
 </i>
 
