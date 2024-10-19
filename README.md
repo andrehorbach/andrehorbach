@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>The story of Rudolph the Red-Nosed Reindeer was written in 1939 for a store promotion by an advertising employee of the department store Montgomery Ward.</h4 quote>
+<h4 quote align='center'>Four out of five brides in the U.</h4 quote>
 </i>
 
