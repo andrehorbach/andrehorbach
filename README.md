@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>On October 15, 1794, the first silver dollar coins were released to be circulated to the public.</h4 quote>
+<h4 quote align='center'>The largest school in the world is City Montessori School in India and has over 25,000 students in grade levels ranging from kindergarten to college.</h4 quote>
 </i>
 
