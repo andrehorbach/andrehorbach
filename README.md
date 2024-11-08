@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>Turkeys have a wingspan of approximately 4.</h4 quote>
+<h4 quote align='center'>Enough paper is recycled in the USA every day, that a 15 mile long train of boxcars could be filled up with paper.</h4 quote>
 </i>
 
