@@ -44,6 +44,6 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>In a day, a mature oak tree can draw approximately 50 gallons of water.</h4 quote>
+<h4 quote align='center'>Over 250 million Slinky toys have been sold since its debut in 1946.</h4 quote>
 </i>
 
