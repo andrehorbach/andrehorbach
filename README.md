@@ -32,10 +32,13 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 </br>
  
-  ![Snake animation](https://github.com/andrehorbach/andrehorbach/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
  
 </div>
-
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Contact:)](https://git.io/typing-svg)
 
