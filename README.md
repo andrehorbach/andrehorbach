@@ -40,5 +40,5 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>The Great Pyramids used to be as white as snow because they were encased in a bright limestone that has worn off over the years.</h4 quote>
+<h4 quote align='center'>Instead of a Birthday Cake, many Russian children are given a Birthday Pie.</h4 quote>
 </i>
