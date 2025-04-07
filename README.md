@@ -40,5 +40,5 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>The first TONKA truck was made in 1947.</h4 quote>
+<h4 quote align='center'>A one ounce milk chocolate bar has 6 mg of caffeine.</h4 quote>
 </i>
