@@ -40,5 +40,5 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>Of married couples, 70% of men and 60% of women have cheated on their spouse.</h4 quote>
+<h4 quote align='center'>It is estimated that by the end of 2000, there has been 142,600 tonnes of gold mined in the world.</h4 quote>
 </i>
