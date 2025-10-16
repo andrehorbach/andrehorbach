@@ -40,5 +40,5 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>The fur of the binturong, also known as the "Asian Bear Cat," smells like popcorn.</h4 quote>
+<h4 quote align='center'>The hydra, which is related to the jellyfish, can grow its body back in a couple of days if it is cut in half.</h4 quote>
 </i>
