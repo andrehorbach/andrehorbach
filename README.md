@@ -40,5 +40,5 @@ Please check out [My Portfolio](http://www.andrehorbach.com.br/) and, if you're 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&duration=1&pause=1000&color=00FFFF&background=33333300&vCenter=true&repeat=false&width=435&height=25&lines=Random+Fact:)](https://git.io/typing-svg)
 <i>
-<h4 quote align='center'>The typical lead pencil can draw a line that is thirty five miles long.</h4 quote>
+<h4 quote align='center'>Pucks hit by hockey sticks have reached speeds of up to 150 miles per hour.</h4 quote>
 </i>
